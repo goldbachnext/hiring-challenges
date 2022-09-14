@@ -16,6 +16,10 @@ At the moment the ads are getting requested no matter if they are in the viewpor
 
 Implement a simple lazy loading functionality that requests the ads when they enter the viewport. In the `registerAdSlot` function is a marked line where you could start implementing this feature.
 
+### Timing
+
+We expect these tasks to take no more than 4 hours. We will discuss how long you took during the follow up call.
+
 ## Setup the project
 
 ```bash
