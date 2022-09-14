@@ -3,7 +3,7 @@
 In this challenge, we would like to get to know your personal understanding of modern architecture & design. Besides getting your hands dirty and having some fun, this challenge consists of:
 
 - Analyzing the given show case
-- Concepting the solution architecture and design
+- Conceptualizing the solution architecture and design
 - Implementing (partially) working software
   ​
 
@@ -14,7 +14,7 @@ Time: 4-6 hours. Please do not spend more than this on this challenge. If you do
 ### Description
 
 ​
-The task in this challenge is to implement a coffee machine API that takes orders from customers, and then translates the orders to command the magic drink maker. The coffee machine can serve coffee, tee and chocolate.
+The task in this challenge is to implement a coffee machine API that takes orders from customers, and then translates the orders to command the magic drink maker. The coffee machine can serve coffee, tea and chocolate.
 ​
 The product owner delivered to you the following stories:
 
