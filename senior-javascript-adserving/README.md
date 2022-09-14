@@ -1,6 +1,6 @@
-# Ad serving hiring challenge
+# Ad-serving hiring challenge
 
-This project represent a minimal ad serving SDK that wraps the Google Publisher Tag (GPT) and provides a small API to initiate ad calls.
+This project represent a minimal ad-serving SDK that wraps the Google Publisher Tag (GPT) and provides a small API to initiate ad calls.
 
 ## Tasks
 
@@ -14,7 +14,7 @@ Fix this behavior and request only sizes that fit the ad slot(s).
 
 At the moment the ads are getting requested no matter if they are in the viewport.
 
-Implement a simple lazy loading functionality that requests the ads when they enter the viewport. In the `registerAdSlot` function is a line is marked where you could start implementing this feature.
+Implement a simple lazy loading functionality that requests the ads when they enter the viewport. In the `registerAdSlot` function is a marked line where you could start implementing this feature.
 
 ## Setup the project
 
